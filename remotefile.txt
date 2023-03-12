@@ -1,0 +1,2 @@
+My remote file content via github.
+The goal is to make small change in the remote repor and then later have it sync with local repo.
